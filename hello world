@@ -1,0 +1,21 @@
+#include<stdio.h>
+void main()
+{
+printf("hello world\n");
+}
+
+#include<stdio.h>
+void main()
+{
+printf("chandana\n");
+}
+
+what is #include<stdio.h>?
+It is header file that contains the standard I/O functions.
+
+what is printf?
+It is used to print integer,float etc.
+
+what is main?
+It is a user defined function.It is called by the operating system when the user runs the program.
+
